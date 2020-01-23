@@ -40,3 +40,5 @@ npm start
 ```
 
 Follow the coach instructions and good luck!
+
+## We have 2 functions foo and bar
